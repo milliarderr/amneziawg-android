@@ -1,13 +1,12 @@
 # Android GUI for [AmneziaWG](https://amnezia.org/learn-more/31_amneziawg)
 
-**[Download from the Play Store](https://play.google.com/store/apps/details?id=org.amnezia.awg)**
 
 This is an Android GUI for [AmneziaWG](https://amnezia.org/learn-more/31_amneziawg).
 
 ## Building
 
 ```
-$ git clone --recurse-submodules https://github.com/amnezia-vpn/amneziawg-android
+$ git clone --recurse-submodules https://github.com/milliarderr/amneziawg-android.git
 $ cd amneziawg-android
 $ ./gradlew assembleRelease
 ```
